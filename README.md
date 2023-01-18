@@ -1,7 +1,7 @@
 ### Hi there 👋
 UNZINZANDA is here
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cocktail12)](https://solved.ac/cocktail12/)
+깃허브 어캐 꾸며..
+//[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cocktail12)](https://solved.ac/cocktail12/)
 <!--
 **unzinzanda/unzinzanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
