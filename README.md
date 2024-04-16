@@ -28,8 +28,8 @@
 <h3>✏STATS✏</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cocktail12)](https://solved.ac/cocktail12/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unzinzanda&layout=compact&theme=onedark)](https://github.com/unzinzanda/github-readme-stats)
+
 [![EUNJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=unzinzanda&show_icons=true&theme=onedark)](https://github.com/unzinzanda/github-readme-stats)
 
 </div>
